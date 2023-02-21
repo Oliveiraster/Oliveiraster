@@ -12,6 +12,7 @@
 
 <a href="https://www.linkedin.com/in/raphael-oliveira-b03110251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+<img align="center" src="https://github-readme-stats-Oliveiraster.vercel.app/api?username=Oliveiraster&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Igu github stats" /><img align="center" src="https://github-readme-stats-Oliveiraster.vercel.app/api/top-langs/?username=Oliveiraster&layout=compact&theme=dracula&hide_border=true" />
 <!--
 **Oliveiraster/Oliveiraster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
