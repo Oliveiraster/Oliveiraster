@@ -1,5 +1,5 @@
 
-  ## Olá, me chamo <strong>Raphael Oliveira</strong> e seja bem vindo ao meu Github!!
+  ## Olá, me chamo Raphael Oliveira, seja bem vindo!!
 <br>
 
 <div align="center">
