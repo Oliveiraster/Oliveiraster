@@ -11,6 +11,7 @@ Olá! Eu sou Raphael Oliveira.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/Php-181717?&style=for-the-badge&logo=php&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-%23E94E32.svg?&style=for-the-badge&logo=coffeescript&logoColor=%23002772)
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
@@ -47,6 +48,6 @@ Olá! Eu sou Raphael Oliveira.
 ## 📊 Github Status
 <div style="display: flex; flex-wrap: nowrap;">
     <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraster&layout=compact&theme=dracula&count_private=true&langs_count=8">
-    <img style="height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveiraster">
+    <img style="height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveiraster&theme=dracula">
   
 </div>
