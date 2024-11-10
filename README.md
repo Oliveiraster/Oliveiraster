@@ -10,7 +10,7 @@ Olá! Eu sou Raphael Oliveira.
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=blue)
+![PHP](https://img.shields.io/badge/Php-181717?&style=for-the-badge&logo=php&logoColor=blue)
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
@@ -38,6 +38,15 @@ Olá! Eu sou Raphael Oliveira.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-##
+## 📫 Contato
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveiraster/)](https://www.linkedin.com/in/oliveiraster/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:oliveiraster.dev@gmail.com)](mailto:oliveiraster.dev@gmail.com)
+
+
+
+## 📊 Github Status
+<div style="display: flex; flex-wrap: nowrap;">
+    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraster&layout=compact&theme=dracula&count_private=true&langs_count=8">
+    <img style="height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveiraster">
+  
+</div>
