@@ -10,13 +10,10 @@ Olá! Eu sou Raphael Oliveira.
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/Php-181717?&style=for-the-badge&logo=php&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-%23E94E32.svg?&style=for-the-badge&logo=coffeescript&logoColor=%23002772)
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?&style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
