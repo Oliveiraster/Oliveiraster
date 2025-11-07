@@ -43,7 +43,7 @@ Olá! Eu sou Raphael Oliveira.
 
 ## 📊 Github Status
 <div style="display: flex; flex-wrap: nowrap;">
-    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraster&layout=compact&theme=dracula&count_private=true&langs_count=8">
-    <img style="height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveiraster&theme=dracula">
+    <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraster&layout=compact&theme=dracula&count_private=true&langs_count=8">
+    <img style="height: 150px;" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveiraster&theme=dracula">
   
 </div>
