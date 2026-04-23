@@ -5,7 +5,6 @@ Olá! Eu sou Raphael Oliveira.
 🎓 Análise e Desenvolvimento de Sistemas <br>
 🎓 Técnico em Eletrônica <br>
 👩🏻‍💻 Desenvolvedor FullStack <br>
-🎮 Gamer nas horas vagas
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
